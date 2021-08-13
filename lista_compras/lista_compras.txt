@@ -1,3 +1,10 @@
 manzana
 aceite
 agua
+fideos
+ravioles
+carne molida
+mandarinas
+banana
+pescado
+arroz
